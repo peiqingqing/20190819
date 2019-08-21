@@ -14,7 +14,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "jquery": "1.11.3"
+    "jquery": "1.11.3",
+    "less": "^3.10.2"
   },
   "engines": {
     "node": ">= 6.0.0",
